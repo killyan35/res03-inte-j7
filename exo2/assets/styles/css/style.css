@@ -1,0 +1,9 @@
+body main section:nth-of-type(2) {
+  height: 630px;
+  width: 600px;
+  background-image: url("https://res03.sites.3wa.io/assets/files/inte/j7/starwars.jpg");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+/*# sourceMappingURL=style.css.map */
